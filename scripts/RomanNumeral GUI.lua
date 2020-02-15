@@ -1,4 +1,9 @@
---credits to efrederickson for ToRomanNumeral: https://gist.github.com/efrederickson/4080372
+--[[
+  credits:
+  efrederickson for ToRomanNumeral: https://gist.github.com/efrederickson/4080372
+  wally for UIlib
+]]
+
 local map = { 
     I = 1,
     V = 5,
